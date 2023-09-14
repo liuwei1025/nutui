@@ -1,0 +1,5 @@
+/*!
+ * @nutui/nutui v2.3.15 - countup.css, 5b6e8c7d5ef3d09d8ecb, Thu Sep 14 2023 13:58:10 GMT+0800 (China Standard Time)
+ * (c) 2017-2020 JDC
+ * Released under the MIT License.
+ */.nut-countup{display:inline-block;width:100%;padding:5px;color:#000;font-weight:700}.nut-countup .run-number{padding:0;width:100%;overflow:hidden;text-align:center;font-weight:700;position:relative}.nut-countup .run-number li{position:absolute;-webkit-transition:none;-o-transition:none;transition:none;list-style:none}.nut-countup .run-number li span{display:block}.nut-countup .pointstyl{position:absolute;display:block}.nut-countup .run-number-machine-img{overflow:hidden}.nut-countup .run-number-machine-img li{float:left;background-position:center 0;background-repeat:repeat-y;background-attachment:scroll}.nut-countup .run-number-img{position:relative}.nut-countup .run-number-img li{position:absolute;-webkit-transition:none;-o-transition:none;transition:none;display:inline-block;background-position:0 0;background-repeat:no-repeat}
