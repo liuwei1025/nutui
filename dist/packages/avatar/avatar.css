@@ -1,0 +1,5 @@
+/*!
+ * @nutui/nutui v2.3.16 - avatar.css, e52e9db51c8ff5aa6d12, Thu Sep 14 2023 23:19:08 GMT+0800 (China Standard Time)
+ * (c) 2017-2020 JDC
+ * Released under the MIT License.
+ */.nut-avatar{background-size:100% 100%;background-repeat:no-repeat;background-position:50%;display:inline-block;position:relative;margin-right:10px}.nut-avatar .icon{width:50%;height:50%;background-size:100% 100%;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.nut-avatar .text{display:inline-block;width:100%;height:100%;text-align:center;overflow:hidden}.avatar-large{width:40px;height:40px;line-height:40px}.avatar-small{width:24px;height:24px;line-height:24px}.avatar-normal{width:32px;height:32px;line-height:32px}.avatar-round{border-radius:50%}.avatar-square{border-radius:5px}
